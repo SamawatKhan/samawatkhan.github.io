@@ -9,7 +9,7 @@
 
 main:
   - title: "Lecture Notes"
-    url: /Publications/
+    url: /publications/
 
   - title: "Personalized Notes"
     url: /talks/    
