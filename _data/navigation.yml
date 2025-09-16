@@ -9,10 +9,10 @@
 
 main:
   - title: "Lecture Notes"
-    url: /_Lecture Notes/
+    url: /_Publications/
 
   - title: "Personalized Notes"
-    url: /_Personalized Notes/    
+    url: /_talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
