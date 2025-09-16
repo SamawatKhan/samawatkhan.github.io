@@ -23,7 +23,7 @@ repository               : "https://github.com/SamawatKhan/samawatkhan.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "profile.png"
   name             : "Samawat Khan"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Physics Student"
