@@ -263,7 +263,7 @@ defaults:
       comments: true
   # _publications University Lectures
   - scope:
-      path: ""
+      path: "University_Lecture_Notes"
       type: University Lectures
     values:
       layout: single
