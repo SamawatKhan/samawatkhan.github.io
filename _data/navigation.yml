@@ -9,7 +9,7 @@
 
 main:
   - title: "Personalized Notes"
-    url: /personalizednotes/
+    url: /personalized_notes/
 
   - title: "Talks"
     url: /talks/    
