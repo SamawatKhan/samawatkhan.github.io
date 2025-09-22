@@ -10,6 +10,7 @@ redirect_from:
 
 Personalized Notes
 ======
+## Differential Equations
 [Differential Equations: Types, Orders, Exact Inexact ODEs, Integrating Factor](https://samawatkhan.github.io/files/DifferentialequationsTypesExactInexactIF.pdf)
 
 
