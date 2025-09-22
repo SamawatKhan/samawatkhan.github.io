@@ -14,8 +14,14 @@ main:
   - title: "Notes"
     url: /notes/    
 
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Blog"
-    url: /blog/    
+    url: /blog/ 
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
   
   
   # - title: "Publications"
