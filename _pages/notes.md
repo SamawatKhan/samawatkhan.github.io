@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
 
 # Personalized Notes
- ## Differential Equations 
-  [Differential Equations: Types, Orders, Exact Inexact ODEs, Integrating Factor](https://samawatkhan.github.io/files/DifferentialequationsTypesExactInexactIF.pdf)
+======
+[Differential Equations: Types, Orders, Exact Inexact ODEs, Integrating Factor](https://samawatkhan.github.io/files/DifferentialequationsTypesExactInexactIF.pdf)
 
 
 Class Notes
