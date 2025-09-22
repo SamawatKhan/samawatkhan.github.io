@@ -8,11 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Personalized Notes"
-    url: /personalized_notes/
-
   - title: "University Lecture Notes"
-    url: /University_Lecture_Notes/    
+    url: /University_Lecture_Notes/ 
+  
+  - title: "Personalized Notes"
+    url: /personalized_notes/   
 
   - title: "Teaching"
     url: /teaching/    
