@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "Blog"
-    url: /blog/ 
+  - title: "Journals"
+    url: /journals/ 
 
   - title: "Miscellaneous"
     url: /miscellaneous/
