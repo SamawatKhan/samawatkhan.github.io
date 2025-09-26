@@ -13,7 +13,7 @@ Personalized Notes
 
 ## Vector and Tensor Analysis
 [Co-ordinate transformations](https://samawatkhan.github.io/files/VectorAnalysis:Co-ordinatetransformations.pdf) \
-[Index Notations](https://samawatkhan.github.io/files/TensorAnalysis:Indexnotations.pdf)\
+[Index Notations](https://samawatkhan.github.io/files/TensorAnalysis:Indexnotations.pdf)
 
 ## Differential Equations
 [Types, Orders, Exact Inexact ODEs, Integrating Factor](https://samawatkhan.github.io/files/DifferentialequationsTypesExactInexactIF.pdf)\
