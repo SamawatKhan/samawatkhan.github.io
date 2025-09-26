@@ -12,8 +12,8 @@ Personalized Notes
 ======
 
 ## Vector and Tensor Analysis
-[Index Notations](https://samawatkhan.github.io/files/TensorAnalysis:Indexnotations.pdf)
-[Co-ordinate transformations](https://samawatkhan.github.io/files/VectorAnalysis:Co-ordinatetransformations.pdf) \
+[Index Notations](https://samawatkhan.github.io/files/TensorAnalysis:Indexnotations.pdf)\
+[Co-ordinate transformations](https://samawatkhan.github.io/files/VectorAnalysis:Co-ordinatetransformations.pdf)
 
 
 ## Differential Equations
