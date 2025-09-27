@@ -18,8 +18,11 @@ Personalized Notes
 
 ## Differential Equations
 [Types, Orders, Exact Inexact ODEs, Integrating Factor](https://samawatkhan.github.io/files/DifferentialequationsTypesExactInexactIF.pdf)\
+
 [Bernoulli Equation](https://samawatkhan.github.io/files/Differentialequations:BernoulliEquation.pdf)\
+
 [Methods of undetermined co-efficients](https://samawatkhan.github.io/files/DifferentialEquations:Methodsofundeterminedco-efficients.pdf)\
+
 [Series Solution Method](https://samawatkhan.github.io/files/DifferentialEquations:SeriesSolutions.pdf)
 
 
