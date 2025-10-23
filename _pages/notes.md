@@ -22,6 +22,8 @@ Personalized Notes
 [Methods of undetermined co-efficients](https://samawatkhan.github.io/files/DifferentialEquations:Methodsofundeterminedco-efficients.pdf)\\
 [Series Solution Method](https://samawatkhan.github.io/files/DifferentialEquations:SeriesSolutions.pdf)
 
+## Statistical Mechanics 
+[Mathematical Preliminaries (incomplete)](https://samawatkhan.github.io/files/StatisticalMechanicsMathematicalPreliminary.pdf)
 
 Class Notes
 ======
