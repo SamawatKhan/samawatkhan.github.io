@@ -55,7 +55,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/share/1H3KDnebU5/?mibextid=wwXIfr"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -63,12 +63,12 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/samawat-khan-3b0235390"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "https://steamcommunity.com/profiles/76561198964157325"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
