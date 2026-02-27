@@ -28,3 +28,6 @@ Personalized Notes
 Class Notes
 ======
 Nothing to add there for now.
+
+
+P.S. The notes I have made are completely personalized and therefore can always contain mistakes. So if you happen to find any, please feel free to let me know via email. Also be sure to always double check my results with other sources for the sake of consistency. I hope these notes come of any help to anyone reading them.
